@@ -84,7 +84,7 @@ Complete documentation — user guide, administration guide, configuration refer
 
 SQL Cor is built and maintained by Artem [Last Name], an independent Creatio specialist.
 
-- Questions, early access during testing, or installation help: reach out via [LinkedIn]([LINKEDIN_PROFILE])
+- Questions, early access during testing, or installation help: reach out via [LinkedIn](https://www.linkedin.com/in/koliada-artem/)
 - Available for Creatio implementation projects and consulting
 
 ## License
